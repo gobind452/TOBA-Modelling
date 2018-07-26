@@ -5,7 +5,6 @@ This repository contains code used for data analysis and modelling an optical le
 Details-
 1. Lagrangian.py - Model the dynamics of an asymmetric torsion pendulum
 2. calculateQ.py - Analyze the data obtained to calculate Q(Quality Factor)
-3. getReflectionX - Get the form of the signal obtained if the mirror is attached at the x-axis
-4. getReflectionY - Get the form of the signal obtained if the mirror is attached at the y-axis
+3. getReflection - Get the signal obtained from the optical lever
 
 Rest are helper functions.
